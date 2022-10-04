@@ -43,7 +43,7 @@ Zhuang Shao
 </div>
 
 <div class="view-list-item" style="font-size: 0.95rem;">
-<a href="https://mingqigao.com" target="_blank">Mingqi Gao</a>
+Mingqi Gao
   <div class="article-metadata">
   <span >
       2019 - </span>, <span >
@@ -88,15 +88,6 @@ Ding Sheng Ong
 </div>
 
 <div class="view-list-item" style="font-size: 0.95rem;">
-Yang Song
-  <div class="article-metadata">
-  <span >
-      2021 - </span>, <span >
-      Department of Computer Science, Aberystwyth University</span>
-  </div>
-</div>
-
-<div class="view-list-item" style="font-size: 0.95rem;">
 Yumna Zahid
   <div class="article-metadata">
   <span >
@@ -107,6 +98,22 @@ Yumna Zahid
 
 <div class="view-list-item" style="font-size: 0.95rem;">
 Zhuoxu Huang
+  <div class="article-metadata">
+  <span >
+      2022 - </span>, <span >
+      Department of Computer Science, Aberystwyth University</span>
+  </div>
+</div>
+
+Binbin Ding
+  <div class="article-metadata">
+  <span >
+      2022 - </span>, <span >
+      Department of Computer Science, Aberystwyth University</span>
+  </div>
+</div>
+
+Jianqiao Zhang
   <div class="article-metadata">
   <span >
       2022 - </span>, <span >
