@@ -105,6 +105,7 @@ Zhuoxu Huang
   </div>
 </div>
 
+<div class="view-list-item" style="font-size: 0.95rem;">
 Binbin Ding
   <div class="article-metadata">
   <span >
@@ -113,6 +114,7 @@ Binbin Ding
   </div>
 </div>
 
+<div class="view-list-item" style="font-size: 0.95rem;">
 Jianqiao Zhang
   <div class="article-metadata">
   <span >
