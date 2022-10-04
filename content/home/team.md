@@ -106,7 +106,7 @@ Zhuoxu Huang
 </div>
 
 <div class="view-list-item" style="font-size: 0.95rem;">
-Binbin Ding
+Jianqiao Zhang
   <div class="article-metadata">
   <span >
       2022 - </span>, <span >
@@ -115,7 +115,7 @@ Binbin Ding
 </div>
 
 <div class="view-list-item" style="font-size: 0.95rem;">
-Jianqiao Zhang
+Binbin Ding
   <div class="article-metadata">
   <span >
       2022 - </span>, <span >
