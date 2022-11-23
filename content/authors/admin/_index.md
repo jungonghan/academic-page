@@ -6,7 +6,7 @@ title: Jungong Han
 superuser: true
 
 # Role/position/tagline
-role: Professor and Chair in Computer Science, Fellow of IAPR
+role: Professor and Chair in Computer Science, Fellow of IAPR, AAIA
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -59,7 +59,7 @@ email: ""
 highlight_name: false
 ---
 
-Prof. Han holds a Chair and is the Director of Research in Computer Science at Aberystwyth University, UK. He is the Honorary Professor at the University of Warwick. He is the Fellow of the International Association of Pattern Recognition (IAPR). Previously, he was an Associate Professor of Data Science at the University of Warwick, a Senior Lecturer (Associate Professor) with the School of Computing and Communications at Lancaster University, UK. From 2004 to 2015, he spent eleven years in the Netherlands, doing research at the Technical University of Eindhoven (TU/e), the Centre for Mathematics and Computer Science (CWI) in Amsterdam, and at Civolution (Philips CI). Prior to arriving in Europe, he spent one year as a research assistant at Microsoft Research Asia, Beijing. 
+Prof. Han holds a Chair and is the Director of Research in Computer Science at Aberystwyth University, UK. He is the Honorary Professor at the University of Warwick. He is the Fellow of the International Association of Pattern Recognition (IAPR) and the Asia-Pacific Artificial Intelligence Association (AAIA). Previously, he was an Associate Professor of Data Science at the University of Warwick, a Senior Lecturer (Associate Professor) with the School of Computing and Communications at Lancaster University, UK. From 2004 to 2015, he spent eleven years in the Netherlands, doing research at the Technical University of Eindhoven (TU/e), the Centre for Mathematics and Computer Science (CWI) in Amsterdam, and at Civolution (Philips CI). Prior to arriving in Europe, he spent one year as a research assistant at Microsoft Research Asia, Beijing. 
 
 Prof. Han’s research interests include Computer Vision, Artificial Intelligence, and Machine Learning. He has written and co-authored over 200 papers, including 80+ IEEE/ACM Transactions (23 papers on IEEE Trans. Image Processing) and 50+ A* conference papers (21 papers on CVPR, ICCV, ECCV; 2 papers on NeurIPS; 1 paper on ICML). He is the Associate Editor-in-Chief of Elsevier Neurocomputing, the Associate Editor of IEEE Trans. on Neural Networks and Learning Systems (T-NNLS),  Pattern Recognition,  Journal of Visual Communication and Image Representation, and IET Computer Vision.
 

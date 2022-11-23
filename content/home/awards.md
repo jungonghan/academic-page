@@ -14,6 +14,14 @@ subtitle:
 ---
 
 <div class="view-list-item" style="padding-top: 20px;font-size: 0.95rem;">
+Fellow of the Asia-Pacific Artificial Intelligence Association (AAIA)
+  <div class="article-metadata">
+  <span >
+      2022</span>
+  </div>
+</div>
+
+<div class="view-list-item" style="font-size: 0.95rem;">
 Fellow of the International Association of Pattern Recognition (IAPR)
   <div class="article-metadata">
   <span >

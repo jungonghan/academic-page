@@ -43,7 +43,7 @@ Zhuang Shao
 </div>
 
 <div class="view-list-item" style="font-size: 0.95rem;">
-Mingqi Gao
+<a href="https://mingqigao.com/" target="_blank">Mingqi Gao</a>
   <div class="article-metadata">
   <span >
       2019 - </span>, <span >
@@ -123,6 +123,16 @@ Binbin Ding
       Department of Computer Science, Aberystwyth University</span>
   </div>
 </div>
+
+<div class="view-list-item" style="font-size: 0.95rem;">
+Zhenkun Fan
+  <div class="article-metadata">
+  <span >
+      2022 - </span>, <span >
+      Department of Computer Science, Aberystwyth University</span>
+  </div>
+</div>
+
 
 ## Alumni
 
